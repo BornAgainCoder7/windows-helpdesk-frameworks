@@ -2,40 +2,43 @@
 
 This document outlines structured troubleshooting and security frameworks I use in Windows-based help desk environments.
 
-These models help ensure consistency, clarity, and proper documentation when resolving technical issues.
-
-They reflect real-world experience supporting users, applications, networking, and systems.
+They reflect my real-world experience supporting users (former clients, coworkers, friends), applications, networking, and systems.
 
 **STABLER Troubleshooting Model**
 
-A structured Tier 1 troubleshooting workflow.
+A structured troubleshooting workflow that I use in my IT Support role.
 
 S – Scan the Environment
-Review system behavior, error messages, recent updates, and environmental context.
+
+Review system behavior, error messages, recent updates, and environmental context. Collect data.
 
 T – Talk to the User
-Clarify symptoms, timing, scope, and impact. Confirm what changed.
+
+Clarify symptoms, timing, scope, and impact. Confirm what changed. Collect more data. 
 
 A – Assess the Issue
-Categorize the issue using the UNAS model (User, Network, Application, System).
+
+Categorize the issue using the UNAS model (User, Network, Application, System). Work on narrowing the scope. 
 
 B – Build Hypothesis
-Form testable root cause theories based on observable evidence.
+
+Form testable root cause theories based on the evidence that I have collected.
 
 L – Launch Fix
-Apply the lowest-impact corrective action first.
+
+Apply the lowest-impact corrective action first. Apply a targeted intervention or reconfiguration. 
 
 E – Evaluate Outcome
-Confirm resolution with the user. Test functionality.
+
+Confirm resolution with the user. Test to see if it worked. Escalate, if needed.
 
 R – Record and Document
-Log steps taken, commands used, findings, and resolution in the ticketing system.
 
-Escalation occurs when the issue exceeds Tier 1 scope.
+Log steps taken, commands used, findings, and resolution in the ticketing system. Follow up with the user.
 
-**UNAS Diagnostic Model** (Help Desk-related domains I have experience in)
+**UNAS Diagnostic Model**
 
-The UNAS model helps quickly identify where an issue originates.
+The UNAS model helps me quickly identify where an issue originates.
 
 It reflects my hands-on experience supporting the following areas:
 
@@ -103,11 +106,9 @@ Hardware diagnostics
 
 OS-level troubleshooting
 
-UNAS provides structured categorization before applying remediation.
-
 **TINGEDE Network Diagnostic Model**
 
-A repeatable Windows network troubleshooting sequence.
+A repeatable Windows network troubleshooting guide.
 
 T – TCP/IP Configuration
 
@@ -173,10 +174,6 @@ Reduce reactive troubleshooting
 
 Increase documentation consistency
 
-Improve clarity during escalation
-
-Reinforce security-aware decision making
+Reinforce security-informed decision making
 
 Create repeatable support processes
-
-They are structured mental models applied in real support environments.
