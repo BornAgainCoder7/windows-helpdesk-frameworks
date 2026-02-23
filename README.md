@@ -1,4 +1,4 @@
-Tier 1 Help Desk Diagnostic Frameworks
+# Tier 1 Help Desk Diagnostic Frameworks
 
 This document outlines structured troubleshooting and security frameworks I use in Windows-based help desk environments.
 
@@ -6,7 +6,7 @@ These models help ensure consistency, clarity, and proper documentation when res
 
 They reflect real-world experience supporting users, applications, networking, and systems.
 
-1. STABLER Troubleshooting Model
+# STABLER Troubleshooting Model
 
 A structured Tier 1 troubleshooting workflow.
 
@@ -33,7 +33,7 @@ Log steps taken, commands used, findings, and resolution in the ticketing system
 
 Escalation occurs when the issue exceeds Tier 1 scope.
 
-2. UNAS Diagnostic Model (Experience-Based Domains)
+# UNAS Diagnostic Model (Experience-Based Domains)
 
 The UNAS model helps quickly identify where an issue originates.
 
@@ -42,70 +42,46 @@ It reflects my hands-on experience supporting the following areas:
 U – Users
 
 Login failures
-
 Password resets
-
 MFA troubleshooting
-
 Account unlocks
-
 Role-based access issues
-
 Permission corrections
-
 Profile issues
 
 N – Networking
 
 TCP/IP configuration
-
 Wi-Fi troubleshooting
-
 NIC validation
-
 Gateway reachability
-
 DNS resolution
-
 IP lease renewal
-
 External connectivity testing
 
 A – Applications
 
 Microsoft 365
-
 Outlook configuration and profile repair
-
 SMTP configuration
-
 SharePoint access issues
-
 Microsoft Teams support
-
 Event Viewer diagnostics
-
 Task Manager performance analysis
 
 S – Systems
 
 Windows 10 / Windows 11
-
 Device Manager troubleshooting
-
 Driver conflicts
-
 Firmware-based printer drivers
-
 Peripheral setup
-
 Hardware diagnostics
-
 OS-level troubleshooting
 
 UNAS provides structured categorization before applying remediation.
 
-3. TINGEDE Network Diagnostic Model
+# TINGEDE Network Diagnostic Model
 
 A repeatable Windows network troubleshooting sequence.
 
@@ -132,7 +108,7 @@ Escalate if upstream routing, firewall, ISP, or infrastructure issue is suspecte
 
 This ensures network troubleshooting is systematic and documented.
 
-4. LAPNR Security Awareness Model
+# LAPNR Security Awareness Model
 
 A security-first review model used during account and access-related troubleshooting.
 
@@ -148,23 +124,19 @@ Review access rights and group membership.
 N – Networks
 Confirm access context (VPN, internal network, remote access).
 
-R – Roles & Least Privilege
-Ensure permissions align with role and follow least privilege principles.
+R – Roles and Least Privilege
+To ensure permissions align with the role and follow least privilege principles.
 
 This model reinforces secure support practices during Tier 1 account management tasks.
 
-Philosophy
+# Philosophy
 
 These frameworks are designed to:
 
 Reduce reactive troubleshooting
-
 Increase documentation consistency
-
 Improve clarity during escalation
-
 Reinforce security-aware decision making
-
 Create repeatable support processes
 
 They are structured mental models applied in real support environments.
