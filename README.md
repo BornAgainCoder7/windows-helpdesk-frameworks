@@ -39,7 +39,7 @@ The UNAS model helps quickly identify where an issue originates.
 
 It reflects my hands-on experience supporting the following areas:
 
-U – Users
+**U** – Users
 
 Login failures
 
@@ -55,34 +55,52 @@ Permission corrections
 
 Profile issues
 
-N – Networking
+**N** – Networking
 
 TCP/IP configuration
+
 Wi-Fi troubleshooting
+
 NIC validation
+
 Gateway reachability
+
 DNS resolution
+
 IP lease renewal
+
 External connectivity testing
 
-A – Applications
+**A** – Applications
 
 Microsoft 365
+
 Outlook configuration and profile repair
+
 SMTP configuration
+
 SharePoint access issues
+
 Microsoft Teams support
+
 Event Viewer diagnostics
+
 Task Manager performance analysis
 
-S – Systems
+**S** – Systems
 
 Windows 10 / Windows 11
+
 Device Manager troubleshooting
+
 Driver conflicts
+
 Firmware-based printer drivers
+
 Peripheral setup
+
 Hardware diagnostics
+
 OS-level troubleshooting
 
 UNAS provides structured categorization before applying remediation.
@@ -92,10 +110,10 @@ UNAS provides structured categorization before applying remediation.
 A repeatable Windows network troubleshooting sequence.
 
 T – TCP/IP Configuration
-Verify IP address, subnet mask, gateway using ipconfig.
+Verify IP address, subnet mask, and gateway using ipconfig.
 
 I – Interface Status
-Confirm NIC is enabled and driver functioning properly.
+Confirm NIC is enabled and the driver is functioning properly.
 
 N – Network Connectivity
 Ping local gateway.
