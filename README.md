@@ -110,24 +110,31 @@ UNAS provides structured categorization before applying remediation.
 A repeatable Windows network troubleshooting sequence.
 
 T – TCP/IP Configuration
+
 Verify IP address, subnet mask, and gateway using ipconfig.
 
 I – Interface Status
+
 Confirm NIC is enabled and the driver is functioning properly.
 
 N – Network Connectivity
+
 Ping local gateway.
 
 G – Gateway Validation
+
 Confirm proper routing and gateway responsiveness.
 
 E – External Ping Test
+
 Ping a public IP address (e.g., 8.8.8.8).
 
 D – DNS Resolution
+
 Test domain resolution using nslookup or domain ping.
 
 E – Escalate if Needed
+
 Escalate if upstream routing, firewall, ISP, or infrastructure issue is suspected.
 
 This ensures network troubleshooting is systematic and documented.
@@ -137,18 +144,23 @@ This ensures network troubleshooting is systematic and documented.
 A security-first review model used during account and access-related troubleshooting.
 
 L – Logins
+
 Validate the authentication method and login history.
 
 A – Accounts
+
 Confirm correct account, status, and lockout state.
 
 P – Permissions
+
 Review access rights and group membership.
 
 N – Networks
+
 Confirm access context (VPN, internal network, remote access).
 
 R – Roles and Least Privilege
+
 To ensure permissions align with the role and follow least privilege principles.
 
 This model reinforces secure support practices during Tier 1 account management tasks.
@@ -158,9 +170,13 @@ This model reinforces secure support practices during Tier 1 account management 
 These frameworks are designed to:
 
 Reduce reactive troubleshooting
+
 Increase documentation consistency
+
 Improve clarity during escalation
+
 Reinforce security-aware decision making
+
 Create repeatable support processes
 
 They are structured mental models applied in real support environments.
