@@ -42,11 +42,17 @@ It reflects my hands-on experience supporting the following areas:
 U – Users
 
 Login failures
+
 Password resets
+
 MFA troubleshooting
+
 Account unlocks
+
 Role-based access issues
+
 Permission corrections
+
 Profile issues
 
 N – Networking
