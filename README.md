@@ -6,7 +6,7 @@ These models help ensure consistency, clarity, and proper documentation when res
 
 They reflect real-world experience supporting users, applications, networking, and systems.
 
-# STABLER Troubleshooting Model
+**STABLER Troubleshooting Model**
 
 A structured Tier 1 troubleshooting workflow.
 
@@ -33,7 +33,7 @@ Log steps taken, commands used, findings, and resolution in the ticketing system
 
 Escalation occurs when the issue exceeds Tier 1 scope.
 
-# UNAS Diagnostic Model (Experience-Based Domains)
+**UNAS Diagnostic Model** (Help Desk-related domains I have experience in)
 
 The UNAS model helps quickly identify where an issue originates.
 
@@ -81,7 +81,7 @@ OS-level troubleshooting
 
 UNAS provides structured categorization before applying remediation.
 
-# TINGEDE Network Diagnostic Model
+**TINGEDE Network Diagnostic Model**
 
 A repeatable Windows network troubleshooting sequence.
 
@@ -108,12 +108,12 @@ Escalate if upstream routing, firewall, ISP, or infrastructure issue is suspecte
 
 This ensures network troubleshooting is systematic and documented.
 
-# LAPNR Security Awareness Model
+**LAPNR Security Awareness Model**
 
 A security-first review model used during account and access-related troubleshooting.
 
 L – Logins
-Validate authentication method and login history.
+Validate the authentication method and login history.
 
 A – Accounts
 Confirm correct account, status, and lockout state.
@@ -129,7 +129,7 @@ To ensure permissions align with the role and follow least privilege principles.
 
 This model reinforces secure support practices during Tier 1 account management tasks.
 
-# Philosophy
+**Philosophy**
 
 These frameworks are designed to:
 
