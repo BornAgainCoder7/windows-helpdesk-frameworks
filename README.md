@@ -36,7 +36,7 @@ R – Record and Document
 
 Log steps taken, commands used, findings, and resolution in the ticketing system. Follow up with the user.
 
-**UNAS Diagnostic Model**
+**UANS Diagnostic Model**
 
 The UNAS model helps me quickly identify where an issue originates.
 
@@ -58,22 +58,6 @@ Permission corrections
 
 Profile issues
 
-**N** – Networking
-
-TCP/IP configuration
-
-Wi-Fi troubleshooting
-
-NIC validation
-
-Gateway reachability
-
-DNS resolution
-
-IP lease renewal
-
-External connectivity testing
-
 **A** – Applications
 
 Microsoft 365
@@ -89,6 +73,22 @@ Microsoft Teams support
 Event Viewer diagnostics
 
 Task Manager performance analysis
+
+**N** – Networking
+
+TCP/IP configuration
+
+Wi-Fi troubleshooting
+
+NIC validation
+
+Gateway reachability
+
+DNS resolution
+
+IP lease renewal
+
+External connectivity testing
 
 **S** – Systems
 
@@ -108,7 +108,7 @@ OS-level troubleshooting
 
 **TINGEDE Network Diagnostic Model**
 
-A repeatable Windows network troubleshooting guide.
+A repeatable network troubleshooting guide.
 
 T – TCP/IP Configuration
 
@@ -116,7 +116,7 @@ Verify IP address, subnet mask, and gateway using ipconfig.
 
 I – Interface Status
 
-Confirm NIC is enabled and the driver is functioning properly.
+Confirm NIC is enabled and the driver is working correctly.
 
 N – Network Connectivity
 
@@ -170,6 +170,8 @@ This model reinforces secure support practices during Tier 1 account management 
 
 These frameworks are designed to:
 
+Reduce organizational IT risk
+
 Reduce reactive troubleshooting
 
 Increase documentation consistency
@@ -177,3 +179,9 @@ Increase documentation consistency
 Reinforce security-informed decision making
 
 Create repeatable support processes
+
+Minimize downtime and maximize uptime 
+
+Increase the stability of the business
+
+
