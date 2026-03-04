@@ -8,7 +8,7 @@ They reflect my real-world experience supporting users (former clients, coworker
 
 A structured troubleshooting workflow that I use in my IT Support role.
 
-**S** – Scan the Environment
+**S** – Scope and Scan the Environment
 
 Review system behavior, error messages, recent updates, and environmental context. Collect data.
 
@@ -18,7 +18,7 @@ Clarify symptoms, timing, scope, and impact. Confirm what changed. Collect more 
 
 **A** – Assess the Issue
 
-Categorize the issue using the UANS model (User, Apps, Network, Systems). Work on narrowing the scope. Develop a detailed problem statement. Work to identify what is the root cause. 
+Categorize the issue using the UANS model (User, Apps, Network, Systems). Work on narrowing the scope. Develop a detailed problem statement. Work to identify the root cause. 
 
 **B** – Build Hypothesis
 
@@ -30,7 +30,7 @@ Apply the lowest-impact corrective action first. Apply a targeted intervention o
 
 **E** – Evaluate Outcome
 
-Confirm resolution with the user. Test to see if it worked. Escalate, if needed.
+Confirm resolution with the user. Test to see if it worked. Escalate, if you need to.
 
 **R** – Record and Document
 
