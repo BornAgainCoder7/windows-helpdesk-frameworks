@@ -1,4 +1,4 @@
-# Tier 1 Help Desk Diagnostic Frameworks
+**Help Desk Diagnostic Frameworks**
 
 This document outlines structured troubleshooting and security frameworks I use in Windows-based help desk environments.
 
@@ -8,31 +8,31 @@ They reflect my real-world experience supporting users (former clients, coworker
 
 A structured troubleshooting workflow that I use in my IT Support role.
 
-S – Scan the Environment
+**S** – Scan the Environment
 
 Review system behavior, error messages, recent updates, and environmental context. Collect data.
 
-T – Talk to the User
+**T** – Talk to the User
 
 Clarify symptoms, timing, scope, and impact. Confirm what changed. Collect more data. 
 
-A – Assess the Issue
+**A** – Assess the Issue
 
 Categorize the issue using the UNAS model (User, Network, Application, System). Work on narrowing the scope. 
 
-B – Build Hypothesis
+**B** – Build Hypothesis
 
 Form testable root cause theories based on the evidence that I have collected.
 
-L – Launch Fix
+**L** – Launch Fix
 
 Apply the lowest-impact corrective action first. Apply a targeted intervention or reconfiguration. 
 
-E – Evaluate Outcome
+**E** – Evaluate Outcome
 
 Confirm resolution with the user. Test to see if it worked. Escalate, if needed.
 
-R – Record and Document
+**R** – Record and Document
 
 Log steps taken, commands used, findings, and resolution in the ticketing system. Follow up with the user.
 
@@ -110,31 +110,31 @@ OS-level troubleshooting
 
 A repeatable network troubleshooting guide.
 
-T – TCP/IP Configuration
+**T** – TCP/IP Configuration
 
 Verify IP address, subnet mask, and gateway using ipconfig.
 
-I – Interface Status
+**I** – Interface Status
 
 Confirm NIC is enabled and the driver is working correctly.
 
-N – Network Connectivity
+**N** – Network Connectivity
 
 Ping local gateway.
 
-G – Gateway Validation
+**G** – Gateway Validation
 
 Confirm proper routing and gateway responsiveness.
 
-E – External Ping Test
+**E** – External Ping Test
 
 Ping a public IP address (e.g., 8.8.8.8).
 
-D – DNS Resolution
+**D** – DNS Resolution
 
 Test domain resolution using nslookup or domain ping.
 
-E – Escalate if Needed
+**E** – Escalate if Needed
 
 Escalate if upstream routing, firewall, ISP, or infrastructure issue is suspected.
 
@@ -144,23 +144,23 @@ This ensures network troubleshooting is systematic and documented.
 
 A security-first review model used during account and access-related troubleshooting.
 
-L – Logins
+**L** – Logins
 
 Validate the authentication method and login history.
 
-A – Accounts
+**A** – Accounts
 
 Confirm correct account, status, and lockout state.
 
-P – Permissions
+**P** – Permissions
 
 Review access rights and group membership.
 
-N – Networks
+**N** – Networks
 
 Confirm access context (VPN, internal network, remote access).
 
-R – Roles and Least Privilege
+**R** – Roles and Least Privilege
 
 To ensure permissions align with the role and follow least privilege principles.
 
