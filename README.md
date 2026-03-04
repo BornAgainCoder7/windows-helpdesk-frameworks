@@ -18,7 +18,7 @@ Clarify symptoms, timing, scope, and impact. Confirm what changed. Collect more 
 
 **A** – Assess the Issue
 
-Categorize the issue using the UNAS model (User, Network, Application, System). Work on narrowing the scope. 
+Categorize the issue using the UANS model (User, Apps, Network, Systems). Work on narrowing the scope. Develop a detailed problem statement. Work to identify what is the root cause. 
 
 **B** – Build Hypothesis
 
@@ -38,7 +38,7 @@ Log steps taken, commands used, findings, and resolution in the ticketing system
 
 **UANS Diagnostic Model**
 
-The UNAS model helps me quickly identify where an issue originates.
+The UANS model helps me quickly identify where an issue originates.
 
 It reflects my hands-on experience supporting the following areas:
 
@@ -108,7 +108,7 @@ OS-level troubleshooting
 
 **TINGEDE Network Diagnostic Model**
 
-A repeatable network troubleshooting guide.
+A repeatable network troubleshooting guide. "If the network is tinged, I use the TINGEDE approach." 
 
 **T** – TCP/IP Configuration
 
